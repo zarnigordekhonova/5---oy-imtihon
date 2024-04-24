@@ -1,0 +1,11 @@
+3 - masala
+
+GIT buyruqlari
+
+1. git init terminal orqali github ga ulanish uchun ishlatiladi.
+
+2. git add . github ga yuklanishi kerak bo'lgan fayllarni qo'shib olish ucun ishlatiladi.
+
+3. git status github ga yuklanishi kerak bo'lgan fayllarning github repositryga qo'shilgan yoki qo'shilmaganini aniqlaydi.
+
+4. git history terminalda github ga oid bajarilgan amallar tarixini ko'rsatadi.
